@@ -1,2 +1,2 @@
-# Coursera-Assignment-5
-this is a solution of Assignment 5
+# Coursera-WebDevelopment-Assignment-5
+This is a solution of Coursera Web Development Assignment 5.
